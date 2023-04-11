@@ -15,7 +15,7 @@
 		<ApplicationTitle>Controle Financeiro</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>br.com.spacedu.appcontrolefinanceiro</ApplicationId>
+		<ApplicationId>br.com.netoschmitt.appcontrolefinanceiro</ApplicationId>
 		<ApplicationIdGuid>e7d05c5c-4568-4417-b90b-0e7beb3e7c34</ApplicationIdGuid>
 
 		<!-- Versions -->
